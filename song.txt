@@ -1,5 +1,3 @@
-test changes
-
 sword
 wall
 standing 
