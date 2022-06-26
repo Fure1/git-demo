@@ -2,6 +2,3 @@ sword
 wall
 standing 
 on
-
--------------------------
-NEW COUPLET
