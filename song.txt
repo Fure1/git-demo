@@ -5,6 +5,3 @@ on
 
 -------------------------
 NEW COUPLET
-
--------------------------
-Another new couplet
