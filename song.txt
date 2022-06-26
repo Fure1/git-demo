@@ -5,8 +5,3 @@ on
 
 -------------------------
 NEW COUPLET
-
-
-1 FEATURE BRANCH COUPLET
-
-2 FEATURE BRANCH COUPLET 
